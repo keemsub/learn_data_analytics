@@ -1,0 +1,13 @@
+month,region,advertising,sales,customers
+Jan,Seoul,120,340,180
+Feb,Seoul,150,420,220
+Mar,Seoul,170,470,240
+Apr,Busan,100,310,170
+May,Busan,130,360,200
+Jun,Busan,140,390,210
+Jul,Incheon,160,460,250
+Aug,Incheon,180,520,280
+Sep,Incheon,190,560,300
+Oct,Daejeon,110,350,190
+Nov,Daejeon,145,410,220
+Dec,Daejeon,175,500,270
