@@ -2,6 +2,7 @@ numpy>=1.26
 pandas>=2.2
 matplotlib>=3.8
 seaborn>=0.13
+koreanize-matplotlib>=0.1.1
 scikit-learn>=1.5
 jupyter>=1.0
 ipykernel>=6.29
