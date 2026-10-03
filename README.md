@@ -6,6 +6,7 @@
 
 - `01_python_basics/`: 파이썬 기본 문법
 - `02_statistics/`: 기초 통계, 확률, 품질관리 통계
+- `notebooks/data_crawling.ipynb`: requests와 BeautifulSoup을 이용한 웹 데이터 수집 실습
 - `03_pandas/`: pandas를 이용한 데이터 처리
 - `04_visualization/`: 시각화 예제
 - `05_machine_learning/`: 지도학습, 비지도학습, 모델 평가, 튜닝, 딥러닝 기초
@@ -71,16 +72,17 @@ jupyter notebook notebooks
 ## 학습 순서
 
 1. Python 기초 문법
-2. 기본 통계 개념
-3. 확률과 표본추출, 품질관리 통계
-4. pandas로 데이터 다루기
-5. 시각화로 패턴 확인
-6. 머신러닝 기초: 지도학습/비지도학습
-7. 모델 평가와 튜닝
-8. 인공신경망 기초
-9. TensorFlow 입문
-10. 제조 품질관리 프로젝트 실습
-11. Jupyter Notebook으로 정리 복습
+2. 웹 데이터 수집: requests와 BeautifulSoup
+3. 기본 통계 개념
+4. 확률과 표본추출, 품질관리 통계
+5. pandas로 데이터 다루기
+6. 시각화로 패턴 확인
+7. 머신러닝 기초: 지도학습/비지도학습
+8. 모델 평가와 튜닝
+9. 인공신경망 기초
+10. TensorFlow 입문
+11. 제조 품질관리 프로젝트 실습
+12. Jupyter Notebook으로 정리 복습
 
 ## 참고
 
